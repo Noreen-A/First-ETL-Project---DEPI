@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "pname": "Laptop",
+        "price": 12000
+    },
+    {
+        "id": 2,
+        "pname": "Mouse",
+        "price": 250
+    },
+    {
+        "id": 3,
+        "pname": "Keyboard",
+        "price": 500
+    },
+    {
+        "id": 4,
+        "pname": "Monitor",
+        "price": 3000
+    },
+    {
+        "id": 5,
+        "pname": "Headphones",
+        "price": 800
+    },
+    {
+        "id": 6,
+        "pname": "Printer",
+        "price": 4500
+    },
+    {
+        "id": 7,
+        "pname": "USB Flash Drive",
+        "price": 150
+    }
+]
